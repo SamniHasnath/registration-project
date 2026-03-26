@@ -1,0 +1,15 @@
+# Node modules folder (huge, can be installed anytime)
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build folders (if you have any)
+dist/
